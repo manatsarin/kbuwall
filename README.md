@@ -1,2 +1,2 @@
 # kbuwall
-KBU firewall
+A KBU firewall based on Debian Linux.
